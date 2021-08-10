@@ -18,7 +18,7 @@ function App() {
   ];
 
   return (
-    <div className="container mx-auto flex flex-col items-center justify-center h-full lg:h-screen   lg:items-center lg:justify-arround">
+    <div className="flex flex-col items-center justify-center h-full lg:h-screen   lg:items-center lg:justify-arround">
       <div className="flex flex-col mb-8 w-4/5 mt-8 rounded-md overflow-hidden lg:flex-row lg:w-4/5">
         <Card
           title={"SEDANS"}
